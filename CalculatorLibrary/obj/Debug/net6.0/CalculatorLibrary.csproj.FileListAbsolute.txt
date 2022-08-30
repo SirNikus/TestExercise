@@ -1,0 +1,12 @@
+F:\repos\SquareCalculator\CalculatorLibrary\bin\Debug\net6.0\CalculatorLibrary.deps.json
+F:\repos\SquareCalculator\CalculatorLibrary\bin\Debug\net6.0\CalculatorLibrary.dll
+F:\repos\SquareCalculator\CalculatorLibrary\bin\Debug\net6.0\CalculatorLibrary.pdb
+F:\repos\SquareCalculator\CalculatorLibrary\obj\Debug\net6.0\CalculatorLibrary.csproj.AssemblyReference.cache
+F:\repos\SquareCalculator\CalculatorLibrary\obj\Debug\net6.0\CalculatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\SquareCalculator\CalculatorLibrary\obj\Debug\net6.0\CalculatorLibrary.AssemblyInfoInputs.cache
+F:\repos\SquareCalculator\CalculatorLibrary\obj\Debug\net6.0\CalculatorLibrary.AssemblyInfo.cs
+F:\repos\SquareCalculator\CalculatorLibrary\obj\Debug\net6.0\CalculatorLibrary.csproj.CoreCompileInputs.cache
+F:\repos\SquareCalculator\CalculatorLibrary\obj\Debug\net6.0\CalculatorLibrary.dll
+F:\repos\SquareCalculator\CalculatorLibrary\obj\Debug\net6.0\refint\CalculatorLibrary.dll
+F:\repos\SquareCalculator\CalculatorLibrary\obj\Debug\net6.0\CalculatorLibrary.pdb
+F:\repos\SquareCalculator\CalculatorLibrary\obj\Debug\net6.0\ref\CalculatorLibrary.dll
